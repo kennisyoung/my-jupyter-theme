@@ -29,7 +29,7 @@ $(function() {
     }
     
     terminal.term.setOption('theme', {
-      background: '#000000',
+      background: '#ffffff',
       black: '#000000',
       blue: '#0225c7',
       brightBlack: '#676767',
